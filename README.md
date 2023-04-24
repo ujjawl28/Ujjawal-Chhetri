@@ -14,7 +14,7 @@ I'm fresher and look forward to work in an organization where experience, educat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawl28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ujjawl28&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ujjawl28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ujjawl28&icon=0&color=0)](https://visitcount.itsvg.in)
