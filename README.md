@@ -1,6 +1,6 @@
 # Hi..
 # 💫 About Me:
-I'm fresher and look forward to work in an organization where experience, education, training and strong professional growth can be<br>achieved with full dedication and to be good in any responsibility assigned to me.
+I'm fresher and look forward to work in an organization where experience, education, training and strong professional growth can be achieved with full dedication and to be good in any responsibility assigned to me.
 
 
 ## 🌐 Socials:
